@@ -92,14 +92,22 @@
     .allCont{
         width: 90%;
     }
-  
-    
-    
-    
-    
-    
-    
-    .headerMOBILE{
-        display: none;
-    }
+
+
+
+
+.title{
+    font-size: 28px;
+}
+.pic{
+    width: 40%;
+    height: auto;
+}
+.textList{
+    width: 60%;
+    margin: 0 auto;
+}
+.element{
+    align-items: center;
+}
 }

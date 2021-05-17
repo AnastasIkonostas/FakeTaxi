@@ -64,26 +64,30 @@
 
 
 
-.allCont{
-    width: 80%;
+.element{
+    width: 90%;
+    padding: 0;
 }
-.adress{
-    line-height: 20px;
+.elementRev{
+    width: 90%;
+    padding: 0;
 }
-.contacts {
-    line-height: 20px;
+.title{
+    font-size: 30px;
 }
-.icon{
-    padding-right: 10px;
-    margin-top:10px;
+.textList{
+    font-size: 20px;
+    margin: 5px 0;
+    padding: 0 5px;
+}
+.pic{
+    width: 50%;
+    height: auto;
+}
+.textList{
+    width: 50%;
 }
 
 
 
-
-
-
-.headerMOBILE{
-    display: none;
-}
 }

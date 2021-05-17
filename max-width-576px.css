@@ -1,14 +1,11 @@
 @media only screen and (max-width: 576px){
-    .Header{
-        width: 95%;
-        font-size: 12px;
-    } 
-    .headerYelEl{
-        padding: 0 10px;
-    }
-    .menu{
+    .allHeader{
         display: none;
     }
+    .allMenu{
+        display: none;
+    }
+    
     .map {
         width: 100%;
         background-image: url("фото_страница1/image 1.png");
@@ -123,7 +120,46 @@
     
     
     
-    .headerMOBILE{
-        display: none;
+   
+    
+    .allHeaderMobile{
+        display: block;
+        background: #252218; 
+    }
+    .Header{
+        width: 95%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+        color: white;
+        font-size: 12px;
+    }
+    .Header > p {
+        margin: 0;
+    }
+    .headerYelEl{
+        border: 0px solid #FFCF26;
+        background-color: #FFCF26;
+        color: black;
+        padding: 0 5px;
+    }
+    .allMenuMobile{
+        background: black;
+        display: block;
+    }
+    .Menu {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: auto;
+        font-size: 12px;
+        color: white;
+        width: 90%;
+    }
+    .logoANDtext{
+        display: flex;
+        align-items: center;
     }
 }

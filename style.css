@@ -16,6 +16,12 @@ header{
     font-style: italic;
     font-weight: bold;
 }
+.allHeaderMobile{
+    display: none;
+}
+.allMenuMobile{
+    display: none;
+}
 
 
 
@@ -305,10 +311,6 @@ header{
 
 
 
-.headerMOBILE{
-    display: none;
-}
-
 
 
 .element{
@@ -320,6 +322,7 @@ header{
     font-style: italic;
     font-weight: bold;
     padding: 20px;
+    align-items: center;
 }
 .pic{
     width: 50%;
@@ -345,6 +348,7 @@ header{
     font-style: italic;
     font-weight: bold;
     padding: 30px;
+    align-items: center;
 }
 
 
@@ -474,5 +478,29 @@ header{
     .priceMore{
         font-size: 18px;
         padding: 0 10px 5px 10px;
+    }
+
+.allCont{
+    width: 80%;
+}
+.adress{
+    line-height: 20px;
+}
+.contacts {
+    line-height: 20px;
+}
+.icon{
+    padding-right: 10px;
+    margin-top:10px;
+}
+
+
+
+
+    .element{
+        width: 80%;
+    }
+    .elementRev{
+        width: 80%;
     }
 }
