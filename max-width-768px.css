@@ -96,18 +96,45 @@
 
 
 
+
+.element{
+    width: 90%;
+    }
+.elementRev{
+    width: 90%;
+    }
 .title{
-    font-size: 28px;
+    font-size: 26px;
+}
+.textList{
+    font-size: 20px;
 }
 .pic{
     width: 40%;
-    height: auto;
 }
-.textList{
+.list{
     width: 60%;
-    margin: 0 auto;
 }
-.element{
+.TotalServiceBlock{
+    display: flex;
+    flex-direction: column;
     align-items: center;
+    width: 30%;
+    margin: auto;
+    padding: 60px 0 ;
 }
+.serviceBlock{
+    text-align: center;
+    width: 100%;
+    padding: 30px;
+    margin-top: 20px;
+  }
+.serviceText{
+    font-size: 30px;
+    padding: 0 10px;
+}
+.City{
+    width: 90%;
+}
+
 }
