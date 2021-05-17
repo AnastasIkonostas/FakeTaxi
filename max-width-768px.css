@@ -1,0 +1,105 @@
+@media only screen and (max-width: 768px){
+    .Header{
+        width: 90%;
+        font-size: 18px;
+    } 
+    .map {
+        width: 100%;
+        background-image: url("фото_страница1/image 1.png");
+        padding: 0;
+        background-size: cover;
+        }
+    .BigCar{
+            width: 90%;
+    }
+
+    .instructionName{
+        padding-top: 20px;
+    }
+    
+    
+    
+    .forDrivers {
+        width: 85%;
+        padding: 50px 0;
+    }
+    .textBlack{
+        font-size: 30px;
+    }
+    .textYellow{
+        font-size: 30px;
+    }
+    .textMain {
+        max-width: 80%;
+        font-size: 26px;
+    }
+    .listText {
+        font-size: 16px;
+    }
+    .becomeDriver {
+        font-size: 30px;
+        padding: 12px 32px;
+        margin-top: 30px;
+    }
+    .PieceCar {
+        bottom: 40px;
+        right: -100px;
+        width: 60%;
+    }
+    
+     
+    
+    .TotalCarBlock{
+        width: 60%;
+        padding: 0 0 80px 0;
+    }
+    .carBlock{
+      width: 100%;
+      margin-top: 30px;
+    }
+    .car{
+        max-height: 110px;
+    }
+    .aboutCar{
+        font-size: 20px;
+    }
+    .price{
+    font-size: 30px;
+    }
+    .priceMore{
+    font-size: 24px;
+    }
+    
+    
+    .comment{
+        width: 95%;
+    }
+    .arrow{
+        padding: 0 15px ;
+    }
+    .commentText{
+        font-size: 20px;
+    }
+    .commentAutor{
+        font-size: 20px;
+
+    }
+   
+   
+    .Contacts{
+        font-size: 20px;
+    }
+    .allCont{
+        width: 90%;
+    }
+  
+    
+    
+    
+    
+    
+    
+    .headerMOBILE{
+        display: none;
+    }
+}

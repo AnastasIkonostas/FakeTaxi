@@ -1,0 +1,89 @@
+@media only screen and (max-width: 1024px){
+.Header{
+    width: 70%;
+    font-size: 18px;
+} 
+.instructionName{
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.instruction{
+    width: 90%;
+    padding: 25px;
+}
+.instruction > div {
+    width: 25%;
+}
+
+
+
+.forDrivers {
+    width: 85%;
+}
+.textMain {
+    max-width: 90%;
+}
+
+
+
+.TotalCarBlock{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 35%;
+    margin: auto;
+    padding: 0 0 80px 0;
+}
+.carBlock{
+  width: 100%;
+  margin-top: 30px;
+}
+.car{
+    max-height: 90px;
+}
+.aboutCar{
+    padding: 10px 40px;
+}
+
+
+
+.Block--whitewhite {
+    padding: 50px 0 10px 0;    
+}
+.comment{
+    width: 90%;
+}
+.arrow{
+    padding: 0 20px ;
+}
+.commentAll{
+    padding: 0 ;
+}
+
+
+
+
+.allCont{
+    width: 80%;
+}
+.adress{
+    line-height: 20px;
+}
+.contacts {
+    line-height: 20px;
+}
+.icon{
+    padding-right: 10px;
+    margin-top:10px;
+}
+
+
+
+
+
+
+.headerMOBILE{
+    display: none;
+}
+}

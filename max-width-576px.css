@@ -1,0 +1,129 @@
+@media only screen and (max-width: 576px){
+    .Header{
+        width: 95%;
+        font-size: 12px;
+    } 
+    .headerYelEl{
+        padding: 0 10px;
+    }
+    .menu{
+        display: none;
+    }
+    .map {
+        width: 100%;
+        background-image: url("фото_страница1/image 1.png");
+        padding: 0;
+        background-size: cover;
+        }
+    .BigCar{
+        width: 90%;
+    }
+    .logoB{
+        font-size: 48px;
+    }
+    .logoS{
+        font-size: 36px;
+    }
+        .instruction{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: auto;
+        width: 80%;
+        padding: 40px;
+    }
+    .instruction > div {
+        width: 100%;
+        text-align: center;
+    }
+    .instructionText{
+        font-size:18px;
+    }
+    
+    
+    
+    .forDrivers {
+        width: 95%;
+    }
+    .textBlack{
+        font-size: 22px;
+    }
+    .textYellow{
+        font-size: 32px;
+    }
+    .textMain {
+        max-width: 95%;
+        font-size: 22px;
+    }
+    .listText {
+        font-size: 16px;
+    }
+    .becomeDriver {
+        font-size: 25px;
+        border-radius: 12px;
+        padding: 8px 20px;
+        margin-top: 20px;
+    }
+    .PieceCar {
+        bottom: 120px;
+        right: -150px;
+        width: 90%;
+    }
+    
+     
+    
+     
+    
+    .TotalCarBlock{
+        width: 70%;
+    }
+
+    
+    .comment{
+        width: 95%;
+    }
+    .man{
+        width: 20%;
+    }
+    .arrow{
+        display: none;
+    }
+    .commentText{
+        font-size: 18px;
+    }
+    .commentAutor{
+        font-size: 20px;
+    }
+   
+   
+    .Contacts{
+        font-size: 20px;
+    }
+    .adress{
+        line-height: 12px;
+        font-size: 12px;
+    }
+    .contacts {
+        line-height: 12px;
+        font-size: 12px;
+    }
+    .icon{
+        padding-right: 8px;
+        margin-top:8px;
+        width: 25px;
+        display: flex;
+    }
+    .allCont{
+        width: 95%;
+    }
+  
+    
+    
+    
+    
+    
+    
+    .headerMOBILE{
+        display: none;
+    }
+}
