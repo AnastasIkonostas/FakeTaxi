@@ -136,5 +136,20 @@
 .City{
     width: 90%;
 }
-
+.mobileTitle{
+    font-size: 28px;
+    padding: 0;
+    margin: auto;
+    line-height: 36px;
+}
+.phoneNumber{
+    font-size: 30px;
+    padding: 0;
+    margin: auto;
+    line-height: 40px;
+}
+.FakeTaxi{
+    width: 50%;
+    align-items: center;
+}
 }

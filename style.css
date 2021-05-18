@@ -305,6 +305,14 @@ header{
 .icon:last-child {
     padding-right: 0px;
 }
+.icon2{
+    padding-right: 50px;
+    margin-top:20px;
+}
+
+.icon2:last-child {
+    padding-right: 0px;
+}
 
 
 

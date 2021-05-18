@@ -121,14 +121,15 @@
   .FakeTaxi{
    
     flex-direction: column;
-    
-    width: 60%;
-    margin:  auto 0;
+    align-items: flex-start;
+    width: 33%;
+    margin: 0  auto;
+    padding: 40px 0;
 
 }
 .application{
     margin: 0;
-    width: 50%;
+    width: 100%;
 }
 .phone{
     display: flex;
@@ -154,7 +155,9 @@
     align-items: flex-start;
     justify-content: flex-start;
 }
-
+.icon2{
+    display: none;
+}
 
 
 

@@ -211,3 +211,14 @@
         font-size: 24px;
     }
 }
+.mobileTitle{
+    font-size: 24px;
+    line-height: 36px;
+}
+.phoneNumber{
+    font-size: 28px;
+    line-height: 40px;
+}
+.FakeTaxi{
+    width: 90%;
+}
